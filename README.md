@@ -7,7 +7,7 @@ An review of the election results by County & Candidate
 ## Overview
 In this analysis, 3 candidates ran in an election, and 3 counties particpated. This analysis provides a snapshot of the total turnout for this election, voter turnout by county, and votes recevied by each candidate, along with the election higlights by County and Candidate. 
 
-Please find the file containing the script here: [Up to 7](https://github.com/emilymcdaniel/Election_Analysis/blob/main/Up%20to%207.txt)
+Please find the file containing the script here: [Deliverable 1](https://github.com/emilymcdaniel/Election_Analysis/blob/main/Up%20to%207.txt)
 ---
 ## Election: Audit Results
 ### Candidate Results
@@ -28,3 +28,7 @@ This analysis is effective because it checks identifies each county and each can
 ### Advice
 - I would advise adding a voter fraud checkpoint. The data provided could easily allow a check to ensure the same Ballot ID was not used multiple times.
 - I would also advise adding a separate section to the data that outlines all potential candidates and counties. It is possible that other counties were eligible and there was no turnout, so they went unnoticed; that county should be listed with other counties as 0% turnout. Similarly, there may be a candidate out there who wonders why their results weren't shown as a result of their name and vote count (of 0) being absent from our list.
+---
+## Visual Snapshot
+Admittedly, this is not the view expected from completing Deliverable 2. However, I decided to take this snapshot of the resulting Terminal Panel when "Up to 7" script is run:
+![Deliverable 2](Terminal https://raw.githubusercontent.com/emilymcdaniel/Election_Analysis/main/Terminal%20view%20of%20Up%20to%207%20in%20Notepad.PNG)
