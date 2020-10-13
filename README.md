@@ -31,4 +31,4 @@ This analysis is effective because it checks identifies each county and each can
 ---
 ## Visual Snapshot
 Admittedly, this is not the view expected from completing Deliverable 2. However, I decided to take this snapshot of the resulting Terminal Panel when "Up to 7" script is run:
-![Deliverable 2](Terminal https://raw.githubusercontent.com/emilymcdaniel/Election_Analysis/main/Terminal%20view%20of%20Up%20to%207%20in%20Notepad.PNG)
+![Terminal view of Up to 7 in Notepad](Terminal https://raw.githubusercontent.com/emilymcdaniel/Election_Analysis/main/Terminal%20view%20of%20Up%20to%207%20in%20Notepad.PNG)
