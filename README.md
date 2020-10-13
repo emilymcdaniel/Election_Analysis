@@ -1,9 +1,12 @@
-# Election_Analysis
-A review of the election results by County & Candidate
+# An Analysis of an Election Using Python
+An review of the election results by County & Candidate
 ---
 ---
+# Election Analysis
+
 ## Overview
 In this analysis, 3 candidates ran in an election, and 3 counties particpated. This analysis provides a snapshot of the total turnout for this election, voter turnout by county, and votes recevied by each candidate, along with the election higlights by County and Candidate. 
+
 Please find the file containing the script here: [Up to 7](https://github.com/emilymcdaniel/Election_Analysis/blob/main/Up%20to%207.txt)
 ---
 ## Election: Audit Results
