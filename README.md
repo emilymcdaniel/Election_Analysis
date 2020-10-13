@@ -8,6 +8,9 @@ An review of the election results by County & Candidate
 In this analysis, 3 candidates ran in an election, and 3 counties particpated. This analysis provides a snapshot of the total turnout for this election, voter turnout by county, and votes recevied by each candidate, along with the election higlights by County and Candidate. 
 
 Please find the file containing the script here: [Deliverable 1](https://github.com/emilymcdaniel/Election_Analysis/blob/main/Up%20to%207.txt)
+
+Please find the file containing the copy/pasted Terminal Print-out here: [Result view of Up to 7.txt](https://github.com/emilymcdaniel/Election_Analysis/blob/main/Result%20view%20of%20Up%20to%207.txt)
+
 ---
 ## Election: Audit Results
 ### Candidate Results
