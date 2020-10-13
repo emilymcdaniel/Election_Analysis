@@ -1,5 +1,5 @@
 # An Analysis of an Election Using Python
-An review of the election results by County & Candidate
+A review of the election results by County & Candidate
 ---
 ---
 # Election Analysis
