@@ -31,6 +31,7 @@ This analysis is effective because it checks identifies each county and each can
 ### Advice
 - I would advise adding a voter fraud checkpoint. The data provided could easily allow a check to ensure the same Ballot ID was not used multiple times.
 - I would also advise adding a separate section to the data that outlines all potential candidates and counties. It is possible that other counties were eligible and there was no turnout, so they went unnoticed; that county should be listed with other counties as 0% turnout. Similarly, there may be a candidate out there who wonders why their results weren't shown as a result of their name and vote count (of 0) being absent from our list.
+- Another addition that may be of interest is identifying candidate support by county, or the inverse - county enthusiasm for each candidate.
 ---
 ## Visual Snapshot
 Admittedly, this is not the view expected from completing Deliverable 2. However, I decided to take this snapshot of the resulting Terminal Panel when "Up to 7" script is run:
