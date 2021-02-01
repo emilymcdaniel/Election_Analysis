@@ -37,9 +37,11 @@ To improve this script, I recommend:
 ## References
 Please find source code and raw results here:
 
-![Terminal view of Up to 7 in Notepad](https://raw.githubusercontent.com/emilymcdaniel/Election_Analysis/main/Terminal%20view%20of%20Up%20to%207%20in%20Notepad.PNG)
+![View of Summarized Results](https://github.com/emilymcdaniel/Election_Analysis/blob/main/Resources/Election%20Summary%20Screenshot.PNG?raw=true)
 
-Please find the file containing the script here: [Deliverable 1](https://github.com/emilymcdaniel/Election_Analysis/blob/main/PyPoll_Challenge.py)
+Python Script Location (.py): (https://github.com/emilymcdaniel/Election_Analysis/blob/main/PyPoll_Challenge.py)
 
-Please find .txt file containing the Election Summary Results here: (https://github.com/emilymcdaniel/Election_Analysis/blob/main/Analysis/election_analysis.txt)
+Election Summary Results (.txt): (https://github.com/emilymcdaniel/Election_Analysis/blob/main/Analysis/election_analysis.txt)
 
+Original Data File (.csv): 
+(https://github.com/emilymcdaniel/Election_Analysis/blob/main/Resources/election_results.csv)
